@@ -18,9 +18,8 @@ Objectives:
 ## How to Run
 1. Install a C/C++ compiler
 2. Compile and run each file:
-```bash
-gcc pure_aloha.c -o pure_aloha -lm
-./pure_aloha
+``gcc pure_aloha.c -o pure_aloha -lm``
+``./pure_aloha``
 3. Repeat for other files
 
 ## Current Progress
